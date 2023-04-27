@@ -21,3 +21,11 @@ Electronic digital signature for text files. Needed for Labs on Information Theo
 * Calculate u_2 = r * w mod q;
 * Calculate v = (g** u_1 * y** u_2 mod p) mod q;
 * The signature is valid if and only if v = r.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+***Literature***
+
+[DSA](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
+
+[SHA-1](https://en.wikipedia.org/wiki/SHA-1)
